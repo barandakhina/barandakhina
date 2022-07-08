@@ -8,15 +8,12 @@
 - 😄 Я постоянно учусь чему-то новому
 
 ### Связаться со мной:
-<br />
 
-[<img align="left" alt="olesyabarandakhina | Telegram" width="26px" src="https://infoline.spb.ru/upload/medialibrary/2cb/2cbc84597f87e4968cc4fa5e329fd433.png" />][telegram]
+[<img align="left" alt="olesyabarandakhina | Telegram" width="40px" src="https://avatars.mds.yandex.net/get-zen_doc/1585197/pub_5de01d5709ed822062eccd5a_5de01e4d3a5b3a5707fa7414/scale_1200" />][telegram]
 
 [telegram]: https://t.me/barandakhina
 
 <br />
-<br />
-
 ### Языки и инструменты, которые я использую:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -41,15 +38,12 @@
 - 😄 I'm always learning new things
 
 ### How to reach me:
-<br />
 
 [<img align="left" alt="olesyabarandakhina | Telegram" width="26px" src="https://infoline.spb.ru/upload/medialibrary/2cb/2cbc84597f87e4968cc4fa5e329fd433.png" />][telegram]
 
 [telegram]: https://t.me/barandakhina
 
 <br />
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
