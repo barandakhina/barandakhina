@@ -1,16 +1,21 @@
-### Hi there 👋
+### Привет 👋, Я Олеся
 
-<!--
-**barandakhina/barandakhina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## FrontEnd разработчик
 
-Here are some ideas to get you started:
+- 🔭 В настоящее время я работаю над своим портфолио 
+- 🌱 Сейчас я учу JavaScript и React.js
+- ⚡ В свободное время люблю: читать, заниматься спортом, смотреть фильмы, путешествовать
+- 😄 Я постоянно учусь чему-то новому
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+------------------------------------------------------------------------------------------------
+
+### Hi there 👋, I'm Olesya
+
+## I'm a FrontEnd Developer
+
+- 🔭 I am currently working on my portfolio 
+- 🌱 I'm currently learning JavaScript and React.js
+- ⚡ In my free time I like to: read, play sports, watch movies, travel
+- 😄 I'm always learning new things
+
