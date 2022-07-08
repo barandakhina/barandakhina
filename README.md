@@ -14,6 +14,7 @@
 [telegram]: https://t.me/barandakhina
 
 <br />
+<br />
 
 ### Языки и инструменты, которые я использую:
 
@@ -44,6 +45,7 @@
 
 [telegram]: https://t.me/barandakhina
 
+<br />
 <br />
 
 ### Languages and Tools:
