@@ -8,12 +8,14 @@
 - 😄 Я постоянно учусь чему-то новому
 
 ### Связаться со мной:
+<br />
 
-[`Telegram`](https://t.me/barandakhina)
-
-[<img align="left" alt="olesyabarandakhina | Telegram" width="22px" src="https://infoline.spb.ru/upload/medialibrary/2cb/2cbc84597f87e4968cc4fa5e329fd433.png" />][telegram]
+[<img align="left" alt="olesyabarandakhina | Telegram" width="26px" src="https://infoline.spb.ru/upload/medialibrary/2cb/2cbc84597f87e4968cc4fa5e329fd433.png" />][telegram]
 
 [telegram]: https://t.me/barandakhina
+
+<br />
+<br />
 
 ### Языки и инструменты, которые я использую:
 
@@ -39,8 +41,14 @@
 - 😄 I'm always learning new things
 
 ### How to reach me:
+<br />
 
-[`Telegram`](https://t.me/barandakhina)
+[<img align="left" alt="olesyabarandakhina | Telegram" width="26px" src="https://infoline.spb.ru/upload/medialibrary/2cb/2cbc84597f87e4968cc4fa5e329fd433.png" />][telegram]
+
+[telegram]: https://t.me/barandakhina
+
+<br />
+<br />
 
 ### Languages and Tools:
 
