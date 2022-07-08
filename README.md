@@ -11,6 +11,10 @@
 
 [`Telegram`](https://t.me/barandakhina)
 
+[<img align="left" alt="olesyabarandakhina | Telegram" width="22px" src="https://infoline.spb.ru/upload/medialibrary/2cb/2cbc84597f87e4968cc4fa5e329fd433.png" />][telegram]
+
+[telegram]: https://t.me/barandakhina
+
 ### Языки и инструменты, которые я использую:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
