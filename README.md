@@ -2,14 +2,14 @@
 
 ### FrontEnd разработчик
 
-- 🔭 В настоящее время я работаю над своим портфолио 
-- 🌱 Сейчас я учу JavaScript и React.js
-- ⚡ В свободное время люблю: читать, заниматься спортом, смотреть фильмы, путешествовать
-- 😄 Я постоянно учусь чему-то новому
+- ⚡ В процессе карьерного перехода от руководителя продаж во FrontEnd разработчика
+- 🌱 Все законченные учебные работы публикую в репозиторий
+- 🔭 В поисках работы (стажировки)
+- 😄 Пишите в Telegram 
 
 ### Связаться со мной:
 
-[<img align="left" alt="olesyabarandakhina | Telegram" width="40px" src="https://avatars.mds.yandex.net/get-zen_doc/1585197/pub_5de01d5709ed822062eccd5a_5de01e4d3a5b3a5707fa7414/scale_1200" />][telegram]
+[<img align="left" alt="olesyabarandakhina | Telegram" width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111710.png" />][telegram]
 
 [telegram]: https://t.me/barandakhina
 
@@ -34,14 +34,14 @@
 
 ### I'm a FrontEnd Developer
 
-- 🔭 I am currently working on my portfolio 
-- 🌱 I'm currently learning JavaScript and React.js
-- ⚡ In my free time I like to: read, play sports, watch movies, travel
-- 😄 I'm always learning new things
+- ⚡ In the process of career transition from sales manager to FrontEnd developer
+- 🌱 All completed coursework published in repository
+- 🔭 In search of a job (internship)
+- 😄 Write to Telegram 
 
 ### How to reach me:
 
-[<img align="left" alt="olesyabarandakhina | Telegram" width="40px" src="https://avatars.mds.yandex.net/get-zen_doc/1585197/pub_5de01d5709ed822062eccd5a_5de01e4d3a5b3a5707fa7414/scale_1200" />][telegram]
+[<img align="left" alt="olesyabarandakhina | Telegram" width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111710.png" />][telegram]
 
 [telegram]: https://t.me/barandakhina
 
